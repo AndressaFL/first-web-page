@@ -1,0 +1,53 @@
+header {
+    background-color: rgb(205, 227, 240);
+    padding: 30px;
+    text-align: left;
+    font-size: 20px;
+    color: rgb(9, 9, 9);
+    border-image-width: 1px;
+    
+  }
+  .align
+  {
+    display: flex;
+    display: -webkit-flex;
+    justify-content:space-between;
+    align-items:stretch;
+    
+  }
+
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+
+  ol li{
+    font-size: 15px;
+    font-family: verdana;
+
+  }
+  ul li{
+    font-size: 15px;
+    font-family: verdana;
+
+  }
+
+  li{
+    font-size: 15px;
+    font-family: verdana;
+
+  }
+
+  body {
+    background-color: rgb(229, 231, 233);
+    text-align: left;
+    font-size: 17px;
+    color: rgb(9, 9, 9);
+    font-family: verdana;
+
+    
+  }
+
+  
