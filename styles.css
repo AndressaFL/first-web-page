@@ -5,49 +5,47 @@ header {
     font-size: 20px;
     color: rgb(9, 9, 9);
     border-image-width: 1px;
-    
-  }
-  .align
-  {
+
+}
+
+.align {
     display: flex;
     display: -webkit-flex;
-    justify-content:space-between;
-    align-items:stretch;
-    
-  }
+    justify-content: space-between;
+    align-items: stretch;
 
-  img {
+}
+
+img {
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 150px;
-  }
+}
 
-  ol li{
+ol li {
     font-size: 15px;
     font-family: verdana;
 
-  }
-  ul li{
+}
+
+ul li {
     font-size: 15px;
     font-family: verdana;
 
-  }
+}
 
-  li{
+li {
     font-size: 15px;
     font-family: verdana;
 
-  }
+}
 
-  body {
+body {
     background-color: rgb(229, 231, 233);
     text-align: left;
     font-size: 17px;
     color: rgb(9, 9, 9);
     font-family: verdana;
 
-    
-  }
-
-  
+}
