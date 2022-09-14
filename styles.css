@@ -1,27 +1,19 @@
 header {
-    background-color: rgb(205, 227, 240);
     padding: 30px;
     text-align: left;
-    font-size: 20px;
-    color: rgb(9, 9, 9);
+    font-size: 25px;
+    color: #f7f5f5;
+    font-family:'Handlee', cursive;
     border-image-width: 1px;
-
-}
-
-.align {
-    display: flex;
-    display: -webkit-flex;
-    justify-content: space-between;
-    align-items: stretch;
-
+    background-color: rgb(77, 78, 78);
 }
 
 img {
-    border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 150px;
 }
+
 
 ol li {
     font-size: 15px;
@@ -48,4 +40,18 @@ body {
     color: rgb(9, 9, 9);
     font-family: verdana;
 
+
 }
+
+.poster-row {
+    padding-top: 50px;
+}
+
+img.poster {
+
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+}
+
